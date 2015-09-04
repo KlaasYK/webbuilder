@@ -1,4 +1,4 @@
-package org.examle.appname;
+package nl.klaasyk.apps.webbuilder;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

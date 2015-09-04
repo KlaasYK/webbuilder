@@ -2,13 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.example</groupId>
-	<artifactId>appname</artifactId>
+	<groupId>nl.klaasyk.apps</groupId>
+	<artifactId>webbuilder</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>appname</name>
-	<url>http://example.org</url>
+	<name>webbuilder</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -44,7 +43,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>fully.qualified.Classname</mainClass>
+							<mainClass>nl.klaasyk.apps.webbuilder.App</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

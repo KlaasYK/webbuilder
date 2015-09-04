@@ -1,4 +1,4 @@
-package org.example.appname;
+package nl.klaasyk.apps.webbuilder;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
